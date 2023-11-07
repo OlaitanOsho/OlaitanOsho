@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @OlaitanOsho
 - 👀 I’m interested in Data Analytst ,business analyst 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+  
+  
 - 📫 How to reach me http://www.linkedin.com/in/olaitanosho
 
 <!---
